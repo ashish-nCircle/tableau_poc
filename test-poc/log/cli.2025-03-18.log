@@ -1,0 +1,18 @@
+{"ts":"2025-03-18T15:57:36.817Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-03-18T15:57:36.819Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-03-18T15:57:36.827Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\connector\\node_modules\\@tableau\\taco-toolkit\\node_modules\\@parcel\\config-default\\index.json"}
+{"ts":"2025-03-18T15:57:41.062Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\connector\\node_modules\\@tableau\\taco-toolkit\\node_modules\\@parcel\\config-default\\index.json"}
+{"ts":"2025-03-18T15:57:42.519Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-03-18T15:57:42.519Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-03-18T15:57:42.520Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Copying C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\connector\\connector.json to C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\dist\\app\\connector.json, C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\dist\\handlers\\connector.json"}
+{"ts":"2025-03-18T15:57:42.531Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-03-18T15:57:42.532Z","pid":"18692","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}
+{"ts":"2025-03-18T16:00:19.449Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Start building taco connector"}
+{"ts":"2025-03-18T16:00:19.450Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Compiling app and handlers..."}
+{"ts":"2025-03-18T16:00:19.457Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Compiling app with default parcel config at: C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\connector\\node_modules\\@tableau\\taco-toolkit\\node_modules\\@parcel\\config-default\\index.json"}
+{"ts":"2025-03-18T16:00:22.906Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Compiling handlers with default parcel config at: C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\connector\\node_modules\\@tableau\\taco-toolkit\\node_modules\\@parcel\\config-default\\index.json"}
+{"ts":"2025-03-18T16:00:24.398Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Successfully compiled app and handlers"}
+{"ts":"2025-03-18T16:00:24.399Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Mounting connector.json..."}
+{"ts":"2025-03-18T16:00:24.399Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Copying C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\connector\\connector.json to C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\dist\\app\\connector.json, C:\\Users\\Standard\\Desktop\\Tableau-POC\\test-poc\\dist\\handlers\\connector.json"}
+{"ts":"2025-03-18T16:00:24.410Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Successfully mounted connector.json"}
+{"ts":"2025-03-18T16:00:24.410Z","pid":"19756","sev":"debug","sourceName":"CLI","v":"Build succeeded!"}

@@ -1,0 +1,23 @@
+.body {
+  background-color: #fff;
+}
+
+.box {
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  display: flex;
+}
+
+.box button {
+  cursor: pointer;
+  border-radius: 6px;
+  width: 250px;
+  height: 50px;
+}
+
+.box button:hover {
+  background-color: #a9a9a9;
+}
+
+/*# sourceMappingURL=index.107565fe.css.map */
